@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ICS3UI_Java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HolidayCard.zip.zip!/" />
+      <root url="jar://$PROJECT_DIR$/OrderForm.zip.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

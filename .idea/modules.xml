@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArraysProblemSet/ArraysProblemSet.iml" filepath="$PROJECT_DIR$/ArraysProblemSet/ArraysProblemSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CanadianComputingCompetition2012/CanadianComputingCompetition2012.iml" filepath="$PROJECT_DIR$/CanadianComputingCompetition2012/CanadianComputingCompetition2012.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLoopExercise/ForLoopExercise.iml" filepath="$PROJECT_DIR$/ForLoopExercise/ForLoopExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLoopTableExample/ForLoopTableExample.iml" filepath="$PROJECT_DIR$/ForLoopTableExample/ForLoopTableExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphBasics/GraphBasics.iml" filepath="$PROJECT_DIR$/GraphBasics/GraphBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HolidayCard/HolidayCard.iml" filepath="$PROJECT_DIR$/HolidayCard/HolidayCard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ICS3UI_Java.iml" filepath="$PROJECT_DIR$/.idea/ICS3UI_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputAssignments/InputAssignments.iml" filepath="$PROJECT_DIR$/InputAssignments/InputAssignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputExamples/InputExamples.iml" filepath="$PROJECT_DIR$/InputExamples/InputExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MakingMethods/MakingMethods.iml" filepath="$PROJECT_DIR$/MakingMethods/MakingMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumbarAddition/NumbarAddition.iml" filepath="$PROJECT_DIR$/NumbarAddition/NumbarAddition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberAddition/NumberAddition.iml" filepath="$PROJECT_DIR$/NumberAddition/NumberAddition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderForm/OrderForm.iml" filepath="$PROJECT_DIR$/OrderForm/OrderForm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OutputExamples/OutputExamples.iml" filepath="$PROJECT_DIR$/OutputExamples/OutputExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selection/Selection.iml" filepath="$PROJECT_DIR$/Selection/Selection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectionExercises/SelectionExercises.iml" filepath="$PROJECT_DIR$/SelectionExercises/SelectionExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariablesProject/VariablesProject.iml" filepath="$PROJECT_DIR$/VariablesProject/VariablesProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VolumeCylinder/VolumeCylinder.iml" filepath="$PROJECT_DIR$/VolumeCylinder/VolumeCylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileLoopExercise/WhileLoopExercise.iml" filepath="$PROJECT_DIR$/WhileLoopExercise/WhileLoopExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variableExamples/variableExamples.iml" filepath="$PROJECT_DIR$/variableExamples/variableExamples.iml" />
+    </modules>
+  </component>
+</project>
